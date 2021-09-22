@@ -10,4 +10,4 @@ Atividade do Codelab do módulo 4 Back-End da Blue EdTech com base no tutorial d
 
 ## Aprenda também
 Como fazer um CRUD completo com NestJS - NestJS para Iniciantes
-https://www.youtube.com/watch?v=wuK1MvSpcAc
+<https://www.youtube.com/watch?v=wuK1MvSpcAc>
